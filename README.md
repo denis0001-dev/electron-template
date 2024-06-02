@@ -2,5 +2,5 @@
 Basic structure for an Electron project.
 
 # Useful links
-[Node.js modules](blob/master/node_modules)
-[VSCode run configuration](blob/master/.vscode/launch.json)
+[Node.js modules](node_modules)
+[VSCode run configuration](.vscode/launch.json)
